@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LoadManager.qml</file>
+        <file>FirstPage.qml</file>
+        <file>SecondPage.qml</file>
+        <file>ThirdPage.qml</file>
+        <file>RegisterPage.qml</file>
+        <file>gallarypic.jpg</file>
+        <file>havericlg logo.jpg</file>
+        <file>CsestaffPage.qml</file>
+        <file>cseee.png</file>
+        <file>ece.qml</file>
+        <file>mechstaff.qml</file>
+        <file>library.qml</file>
+        <file>WhatsApp Audio 2021-12-01 at 3.04.51 PM.mpeg</file>
+        <file>collegevideo.qml</file>
+        <file>adminarea.qml</file>
+        <file>adminupdates.qml</file>
+        <file>userupdates.qml</file>
+        <file>NEW COLLEGE PHOTO2.jpeg</file>
+        <file>NEWCOLLEGE PHOTO.jpeg</file>
+        <file>homepage.qml</file>
+        <file>ourcollegelogo.jpg</file>
+        <file>move6-removebg-preview.png</file>
+        <file>background image.webp</file>
+        <file>downmenu-removebg-preview.png</file>
+        <file>finaluppp-removebg-preview.png</file>
+        <file>vtufinallogo-removebg-preview.png</file>
+        <file>finalcollegelogo-removebg-preview.png</file>
+        <file>freshersparty.jpg</file>
+        <file>IMG_20220609_161200.jpg</file>
+        <file>backgroundformsn.jpg</file>
+        <file>civildept.qml</file>
+        <file>royalmech-removebg-preview.png</file>
+        <file>civil2logo-removebg-preview.png</file>
+        <file>royalmech2-removebg-preview.png</file>
+        <file>civllogo3-removebg-preview.png</file>
+        <file>eclogofinal-removebg-preview.png</file>
+        <file>library1.jpg</file>
+        <file>library2.jpg</file>
+        <file>library4.jpg</file>
+        <file>princi2.jpg</file>
+        <file>mainlibraryimage.jpg</file>
+        <file>finallibrary.png</file>
+        <file>librarystaff.jpg</file>
+        <file>newpic3.jpeg</file>
+        <file>newpic5.jpeg</file>
+        <file>rotateimage-removebg-preview1.png</file>
+        <file>savingimage.jpg</file>
+        <file>savecopy2.jpg</file>
+        <file>WhatsApp Video 2022-06-24 at 12.05.02 AM.mp4</file>
+        <file>back5.png</file>
+        <file>admitionform.qml</file>
+        <file>RECEIPT.qml</file>
+        <file>Online-Admission-System-Synopsis.png</file>
+        <file>studentReceipt.qml</file>
+    </qresource>
+</RCC>

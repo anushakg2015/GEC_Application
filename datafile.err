@@ -1,0 +1,9 @@
+/COM,ANSYS RELEASE 10.0A1  UP20060105       18:55:41    06/27/2022
+
+ *** ERROR ***                           CP =       0.812   TIME= 18:55:47
+ Data file C:\Users\Admin\Desktop\NewPage2\datafile.db has incorrect     
+ format, is missing READ/WRITE permission, or is empty for RESUME.       
+
+ *** WARNING ***                         CP =       0.812   TIME= 18:55:47
+ WHILE PROCESSING FILE BASED INPUT (/INPUT OR MACRO) AN ERROR HAS        
+ OCCURRED.  SHOULD INPUT PROCESSING BE SUSPENDED?                        
